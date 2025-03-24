@@ -1,0 +1,17 @@
+{
+  "name": "ScreenConnect Query Builder",
+  "start_url": "https://screenconnect.aimnow.app",
+  "theme_color": "#000000",
+  "background_color": "#000000",
+  "short_name": "scquerybuilder",
+  "id": "ScreenConnectQueryBuilder",
+  "icons": [
+    {
+      "src": "basic-icon.png"
+    }
+  ],
+  "description": "Easily generate ScreenConnect queries for Reports, Session Groups, etc.",
+  "categories": [
+    "utilities"
+  ]
+}
